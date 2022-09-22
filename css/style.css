@@ -203,6 +203,104 @@ video{
     padding-bottom: 20px;
 }
 
+/* NOSOTROS */
+#contenedor1-2{
+    background-color: #FFFDF2;
+    color: #462C0C;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+#contenedor1-2 .titulo{
+    font-size: 25pt;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+#contenedor1-2 .subtitulo{
+    font-size: 20pt;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#contenedor1-2 .parrafo{
+    font-size: 13pt;
+    text-align: justify;
+    line-height: 30pt;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+
+/* PRODUCTOS */
+#contenedor1-3{
+    background-color: #A03713;
+    color: #FFFDF2;
+    margin-top: 150px;
+    padding: 50px;
+    width: 100%;
+    height: 0 auto;
+    text-align: center;
+}
+#contenedor1-3 h2{
+    font-size: 25pt;
+    margin-bottom: 15px;
+}
+#contenedor1-3 p{
+    font-size: 20pt;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+#contenedor1-3 .subcontenedor span {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+}
+#contenedor1-3 .subcontenedor img {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+    border-radius: 20%;
+} 
+
+/* SUCURSALES */
+#contenedor1-4{
+    background-color: #FFFDF2;
+    margin-top: 100px;
+    color:#462C0C;
+    padding: 50px;
+    text-align: center;
+}
+#contenedor1-4 h2{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+#contenedor1-4 .rosario{
+    font-size: 17pt;
+    font-style: italic;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+#contenedor1-4 .rosario p{
+    margin-bottom: 15px;
+}
+#contenedor1-4 .baires{
+    font-size: 17pt;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+#container1-4 .baires p{
+    margin-bottom: 15px;
+}
+#contenedor1-4 .bariloche{
+    font-size: 17pt;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+#contenedor1-4 .bariloche p{
+    margin-bottom: 15px;
+}
+
 /* ANIMACIONES */
 .animate__animated.animate__zoomIn {
     --animate-duration: 7s;
